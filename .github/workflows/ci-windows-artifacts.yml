@@ -23,6 +23,7 @@ jobs:
         with:
           codec-aom: "LOCAL"
           codec-dav1d: "LOCAL"
+          codec-svt: "LOCAL"
           libjpeg-turbo: "LOCAL"
           libxml2: "LOCAL"
           libyuv: "LOCAL"
